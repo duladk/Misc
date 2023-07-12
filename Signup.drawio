@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-10T09:21:22.910Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="Tzp9huG4p7nq0DiokJJ_" version="21.5.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-12T05:22:48.161Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="l0Wa3CCRDO3HDPPzZw8X" version="21.5.0" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1360" dy="775" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -16,7 +16,7 @@
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-4" value="Yes" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;" parent="WIyWlLk6GJQsqaUBKTNV-1" target="WIyWlLk6GJQsqaUBKTNV-10" edge="1">
           <mxGeometry y="20" relative="1" as="geometry">
             <mxPoint as="offset" />
-            <mxPoint x="590" y="80" as="sourcePoint" />
+            <mxPoint x="887" y="10" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-5" value="No" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-6" target="WIyWlLk6GJQsqaUBKTNV-7" edge="1">
@@ -41,18 +41,18 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-10" value="Bulb&lt;br&gt;burned out?" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="540" y="120" width="100" height="80" as="geometry" />
+          <mxGeometry x="837" y="50" width="100" height="80" as="geometry" />
         </mxCell>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-11" value="Repair Lamp" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="530" y="260" width="120" height="40" as="geometry" />
+          <mxGeometry x="827" y="190" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-12" value="Replace Bulb" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="690" y="140" width="120" height="40" as="geometry" />
+          <mxGeometry x="987" y="70" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="hxDXqHTiXdCnv6KLA3Dx-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;labelBackgroundColor=none;endArrow=block;endFill=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="hxDXqHTiXdCnv6KLA3Dx-0" target="hxDXqHTiXdCnv6KLA3Dx-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="hxDXqHTiXdCnv6KLA3Dx-0" value="createCompany&lt;br&gt;return companyId" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="hxDXqHTiXdCnv6KLA3Dx-0" value="createCompany" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="160" y="170" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="hxDXqHTiXdCnv6KLA3Dx-1" value="" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
@@ -82,8 +82,8 @@
         <mxCell id="hxDXqHTiXdCnv6KLA3Dx-6" value="create new company record" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="430" y="170" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="hxDXqHTiXdCnv6KLA3Dx-16" value="return CompanyId&lt;br&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="280" y="160" width="150" height="30" as="geometry" />
+        <mxCell id="hxDXqHTiXdCnv6KLA3Dx-16" value="return CompanyId, oneTimeAccessToken (saved in tokenDB)&lt;br&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="280" y="140" width="150" height="50" as="geometry" />
         </mxCell>
         <mxCell id="hxDXqHTiXdCnv6KLA3Dx-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;labelBackgroundColor=none;endArrow=block;endFill=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" target="hxDXqHTiXdCnv6KLA3Dx-19">
           <mxGeometry relative="1" as="geometry">
@@ -120,7 +120,7 @@
         <mxCell id="hxDXqHTiXdCnv6KLA3Dx-25" value="send company info" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="280" y="190" width="150" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="hxDXqHTiXdCnv6KLA3Dx-27" value="send CompanyId + email" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="hxDXqHTiXdCnv6KLA3Dx-27" value="send CompanyId + email + accessToken&lt;br&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="280" y="360" width="150" height="30" as="geometry" />
         </mxCell>
         <mxCell id="hxDXqHTiXdCnv6KLA3Dx-31" value="Yes" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" target="hxDXqHTiXdCnv6KLA3Dx-32">
@@ -154,8 +154,8 @@
         <mxCell id="hxDXqHTiXdCnv6KLA3Dx-38" value="Thank you for confirming your email. Please lets complete your account setup." style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="160" y="780" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="hxDXqHTiXdCnv6KLA3Dx-40" value="token saved in token table and contains companyid, email??, email, companyId&lt;br&gt;&lt;br&gt;addMember&lt;br&gt;&lt;br&gt;check if user exists - search userDB user table by email&lt;br&gt;&lt;br&gt;if new (doesn&#39;t exist)&lt;br&gt;1. add member to company (status inactive)&lt;br&gt;2. create token with companyid, email save userDB - token table with companyid, email, status new&lt;br&gt;3. send welcome email to user with token&lt;br&gt;4. respond with status: new - show email verification message&lt;br&gt;&lt;br&gt;5. on reentry with token link - search token table retirve record and validate info&lt;br&gt;6. if status new, respond with companyid, email, new - ask for name + pwd&lt;br&gt;&lt;br&gt;7. on info submit, createUser with&amp;nbsp; status active, companyID added to companies&lt;br&gt;8. enableMember in company&lt;br&gt;9. respond with step: payment info&lt;br&gt;&lt;br&gt;10. on payment info submit, verify payment info&lt;br&gt;11. update company record status acitve, payment terms (ppu, monthly, anually), etc.&lt;br&gt;12. respond step/registration/signup: complete&lt;br&gt;&lt;br&gt;if current (exists)&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;1. add member to company (status inactive)&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;2. create token with companyid, email save userDB - token table with companyid, email, status curr&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;3. send invitation to join company email to user with token&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;4. respond with status: curr - show accept invitation to join message to proceed with registration&lt;br&gt;&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;5. on reentry with token link - search token table retrieve record and validate info&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;6. if status curr,&amp;nbsp;updateUser with companyID added to companies&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;8. enableMember in company&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;9. respond with step: payment info&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;10. on payment info submit, verify payment info&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;11. update company record status acitve, payment terms (ppu, monthly, anually), etc.&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;12. respond step/registration/signup: complete" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="700" y="545" width="550" height="550" as="geometry" />
+        <mxCell id="hxDXqHTiXdCnv6KLA3Dx-40" value="token saved in token table and contains companyid, email??, email, companyId&lt;br&gt;&lt;br&gt;addMember&lt;br&gt;&lt;br&gt;check if user exists - search userDB user table by email&lt;br&gt;&lt;br&gt;if new (doesn&#39;t exist)&lt;br&gt;1. add member to company (status inactive)&lt;br&gt;2. create token with companyid, email save userDB - token table with companyid, email, status new, flow signup&lt;br&gt;3. send welcome email to user with token&lt;br&gt;4. respond with status: new - show email verification message&lt;br&gt;&lt;br&gt;5. on reentry with token link - search token table retirve record and validate infossssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssss&lt;br&gt;6. create token with companyid, email save userDB - token table with companyid, email, status new, flow signup&lt;br&gt;6. if status new and flow signup, respond with companyid, email, new, token - ask for name + pwd&lt;br&gt;&lt;br&gt;7. on info submit, createUser with&amp;nbsp; status active, companyID added to companies&lt;br&gt;8. enableMember in company&lt;br&gt;9. respond with step: payment info&lt;br&gt;&lt;br&gt;10. on payment info submit, verify payment info&lt;br&gt;11. update company record status acitve, payment terms (ppu, monthly, anually), etc.&lt;br&gt;12. respond step/registration/signup: complete&lt;br&gt;&lt;br&gt;if current (exists)&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;1. add member to company (status inactive)&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;2. create token with companyid, email save userDB - token table with companyid, email, status curr&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;3. send invitation to join company email to user with token&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;4. respond with status: curr - show accept invitation to join message to proceed with registration&lt;br&gt;&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;5. on reentry with token link - search token table retrieve record and validate info&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;6. if status curr,&amp;nbsp;updateUser with companyID added to companies&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;8. enableMember in company&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;9. respond with step: payment info&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;10. on payment info submit, verify payment info&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;11. update company record status acitve, payment terms (ppu, monthly, anually), etc.&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;12. respond step/registration/signup: complete" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="700" y="540" width="940" height="560" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
